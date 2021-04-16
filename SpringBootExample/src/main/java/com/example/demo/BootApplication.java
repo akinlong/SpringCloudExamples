@@ -8,7 +8,12 @@ public class BootApplication{
 
 	public static void main(String[] args) {
 		SpringApplication.run(BootApplication.class, args);
+		
+		//test for sonakube scaning
+		String s = null;
+		System.out.print(s.length());
 	}
 	
+	//test
 
 }
